@@ -9,6 +9,6 @@ it is for git tutorial
 
 <h1>Hello world!</h1>
 <p>This is the first file in my new Git Repo.</p>
-
+<p>This is the second file in my new Git Repo.</p>
 </body>
 </html>
